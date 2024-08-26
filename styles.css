@@ -1,0 +1,11 @@
+/* General Styling */
+body {
+    background-color: #f4f4f4; /* Light background color */
+    color: #333; /* Dark text color for general content */
+}
+
+/* Header Section Styling */
+h1 {
+    background-color: #000; /* Black background for the header */
+    color: #fff; /* White text color */
+}
